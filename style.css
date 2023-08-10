@@ -199,7 +199,7 @@ nav ul li a:hover::after{
 }
 
 .services-list div{
-    background: #ffccbc;
+    background: rgb(252 234 196);
     padding: 40px;
     font-size: 13px;
     font-weight: 300;
@@ -235,7 +235,7 @@ nav ul li a:hover::after{
 }
 
 .services-list div:hover{
-    background-color: rgb(226, 147, 49);
+    background-color: rgb(255 203 146);
     transform: translateY(-15px);
 
 }
@@ -488,3 +488,7 @@ nav .fas{
     margin-top: -25px;
     display: block;
 }
+
+.justify {
+    text-align: justify;
+  }
